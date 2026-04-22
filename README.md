@@ -27,3 +27,6 @@ Cependant, je souhaite également progresser dans diverses autres technologies a
 <a target="_blank" href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45"></a>
 <a target="_blank" href="https://wordpress.com/fr/"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="45"></a>
 
+---
+
+<img src="https://i.imgur.com/13hEiFb.png" width="500" style="display: flex; align-self: center; justify-self: center;">
