@@ -29,4 +29,4 @@ Cependant, je souhaite également progresser dans diverses autres technologies a
 
 ---
 
-<img src="https://i.imgur.com/jkrGg2o.gif"  style="display: flex; align-self: center; justify-self: center;">
+<img src="https://i.imgur.com/ia6bmDY.png"  style="display: flex; align-self: center; justify-self: center;">
