@@ -35,8 +35,8 @@ Cependant, je souhaite également progresser dans diverses autres technologies a
 <a target="_blank" href="https://www.phpmyadmin.net/"><img src="https://user-images.githubusercontent.com/37474/96790597-72317780-13cd-11eb-9b33-fc6c6af6bcf0.png"  height="45"></a>
 <a target="_blank" href="https://tailwindcss.com/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png"  height="45"></a>
 <a target="_blank" href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  height="45"></a>
-<a target="_blank" href="https://wordpress.com/fr/"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="45" height="45"></a>
-<a target="_blank" href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mongodb.webp" height="45" style="margin-left: 5px;"></a>
+<a target="_blank" href="https://wordpress.com/fr/"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="45" height="45"style="margin: 0 0 0 10px;"></a>
+<a target="_blank" href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mongodb.webp" height="45" style="margin: 0 10px;"></a>
 </div>
 
 ---
