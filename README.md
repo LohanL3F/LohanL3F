@@ -21,7 +21,7 @@ Cependant, je souhaite également progresser dans diverses autres technologies a
 
 ### Quelques technologies Explorées :
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  height="45"></a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-download-png-1175208.png"  height="45"></a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png"  height="45"></a>
